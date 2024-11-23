@@ -1,0 +1,5 @@
+Programator
+Programator: 0
+Programator: 2
+Inginer Mecanic: 4/5
+Doctor: 5/5
